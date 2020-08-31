@@ -1,10 +1,10 @@
 # Selective Repeat with Cumulative ACKs
 
 
-PROJECT TITLE: Selective Repeat with Cumulative ACKs
-VERSION: 11/8/17
-AUTHOR: Darren Hoffmann-Marks
-ID: U34821624
+PROJECT TITLE: Selective Repeat with Cumulative ACKs<br/>
+VERSION: 11/8/17<br/>
+AUTHOR: Darren Hoffmann-Marks<br/>
+ID: U34821624<br/>
 
 
 Compilation Instructions:
