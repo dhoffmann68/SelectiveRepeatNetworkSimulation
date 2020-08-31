@@ -7,7 +7,7 @@ AUTHOR: Darren Hoffmann-Marks<br/>
 ID: U34821624<br/>
 
 
-###Compilation Instructions:
+### Compilation Instructions:
 
 While having all files of the simulator in the same directory, compile using 
 the command line command javac Project.java and run it with the
@@ -17,7 +17,7 @@ your return key. When prompted for the retransmission timeout you should enter t
 however, you can run it with whatever timeout interval you’d like.
 
 
-###Possible Tradeoffs and Extensions:
+### Possible Tradeoffs and Extensions:
 
 The way I chose to deal with the wrap around is by incrementing the 
 base and end number by the appropriate amount whenever packets were received.
